@@ -1,4 +1,4 @@
-# Tic-Tac-Toe 🐱🍄
+# Tic-Tac-Toe 🎀🍄
 
 A simple Tic-Tac-Toe game using JavaScript in the terminal.
 
